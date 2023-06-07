@@ -1,0 +1,5 @@
+@font-face {
+    font-family: "helvitica"; /* Name to be used when applying the font */
+    src: url(HELVETICANEUELTGEO-45LIGHTS.TTF); /* Path to the font file */
+    src:url(HELVETICANEUELTGEO-55ROMAN.TTF)
+  }
